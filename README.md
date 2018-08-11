@@ -1,4 +1,4 @@
-###### Weather Finder App
+### Weather Finder App
 
 - This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 - Basic functionality: Fetches the current weather of a City and Country.
